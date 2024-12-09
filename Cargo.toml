@@ -4,3 +4,6 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+btleplug = "0.11.6"
+pretty_env_logger = "=0.1.1"
+tokio = { version = "1.42.0", features = ["full"] }
