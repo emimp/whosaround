@@ -1,0 +1,223 @@
+[
+    Device {
+        mac_addr: BC:10:2F:7E:A2:4E,
+        local_name: Some(
+            "Refrigerato",
+        ),
+        tx: None,
+        manuf: Some(
+            "SJI Industry Company",
+        ),
+        rssi: Some(
+            -79,
+        ),
+        services: [],
+        services_info: [],
+    },
+    Device {
+        mac_addr: 60:9D:5D:59:50:BF,
+        local_name: None,
+        tx: None,
+        manuf: None,
+        rssi: Some(
+            -84,
+        ),
+        services: [],
+        services_info: [],
+    },
+    Device {
+        mac_addr: 44:C6:5D:7B:F1:DE,
+        local_name: None,
+        tx: Some(
+            12,
+        ),
+        manuf: Some(
+            "Apple, Inc.",
+        ),
+        rssi: Some(
+            -92,
+        ),
+        services: [],
+        services_info: [],
+    },
+    Device {
+        mac_addr: 80:5B:65:9D:95:CB,
+        local_name: Some(
+            "[LG] webOS TV UQ7070ZUD",
+        ),
+        tx: Some(
+            -44,
+        ),
+        manuf: Some(
+            "LG Innotek",
+        ),
+        rssi: Some(
+            -93,
+        ),
+        services: [
+            0000feb9-0000-1000-8000-00805f9b34fb,
+        ],
+        services_info: [
+            None,
+        ],
+    },
+    Device {
+        mac_addr: 7E:4D:8F:57:56:D7,
+        local_name: None,
+        tx: None,
+        manuf: None,
+        rssi: Some(
+            -93,
+        ),
+        services: [
+            0000fdf7-0000-1000-8000-00805f9b34fb,
+            0000fe78-0000-1000-8000-00805f9b34fb,
+        ],
+        services_info: [
+            None,
+            None,
+        ],
+    },
+    Device {
+        mac_addr: 43:AE:42:26:08:90,
+        local_name: None,
+        tx: None,
+        manuf: None,
+        rssi: Some(
+            -93,
+        ),
+        services: [],
+        services_info: [],
+    },
+    Device {
+        mac_addr: BC:26:7C:B0:A7:7C,
+        local_name: Some(
+            "GMG_BLE_730\r",
+        ),
+        tx: None,
+        manuf: None,
+        rssi: Some(
+            -95,
+        ),
+        services: [
+            000018aa-0000-1000-8000-00805f9b34fb,
+        ],
+        services_info: [
+            None,
+        ],
+    },
+    Device {
+        mac_addr: FC:03:9F:FE:EB:F9,
+        local_name: None,
+        tx: None,
+        manuf: Some(
+            "Samsung Electronics Co.,Ltd",
+        ),
+        rssi: Some(
+            -96,
+        ),
+        services: [],
+        services_info: [],
+    },
+    Device {
+        mac_addr: 52:B1:4D:9A:60:A5,
+        local_name: None,
+        tx: Some(
+            17,
+        ),
+        manuf: None,
+        rssi: Some(
+            -96,
+        ),
+        services: [],
+        services_info: [],
+    },
+    Device {
+        mac_addr: 44:A6:E5:19:69:E3,
+        local_name: Some(
+            "BLE#0x44A6E51969E3",
+        ),
+        tx: None,
+        manuf: Some(
+            "Thinking Technology Co.,Ltd",
+        ),
+        rssi: None,
+        services: [
+            00001000-0000-1000-8000-00805f9b34fb,
+        ],
+        services_info: [
+            Some(
+                "   name: ServiceDiscoveryServerServiceClassID",
+            ),
+        ],
+    },
+    Device {
+        mac_addr: 7B:80:AA:BB:3F:7D,
+        local_name: None,
+        tx: None,
+        manuf: None,
+        rssi: None,
+        services: [],
+        services_info: [],
+    },
+    Device {
+        mac_addr: 4E:50:34:95:2B:AE,
+        local_name: None,
+        tx: None,
+        manuf: None,
+        rssi: None,
+        services: [],
+        services_info: [],
+    },
+    Device {
+        mac_addr: 23:45:C7:69:4F:13,
+        local_name: None,
+        tx: None,
+        manuf: None,
+        rssi: None,
+        services: [],
+        services_info: [],
+    },
+    Device {
+        mac_addr: 40:CA:63:E4:50:B5,
+        local_name: Some(
+            "Washer",
+        ),
+        tx: None,
+        manuf: Some(
+            "Seongji Industry Company",
+        ),
+        rssi: None,
+        services: [],
+        services_info: [],
+    },
+    Device {
+        mac_addr: 60:32:A2:3B:E5:15,
+        local_name: None,
+        tx: None,
+        manuf: None,
+        rssi: None,
+        services: [],
+        services_info: [],
+    },
+    Device {
+        mac_addr: 6C:38:80:01:D9:03,
+        local_name: None,
+        tx: None,
+        manuf: None,
+        rssi: None,
+        services: [],
+        services_info: [],
+    },
+    Device {
+        mac_addr: C9:32:38:31:23:16,
+        local_name: Some(
+            "Govee_H617C_2316",
+        ),
+        tx: None,
+        manuf: None,
+        rssi: None,
+        services: [],
+        services_info: [],
+    },
+]

@@ -849,6 +849,7 @@ dependencies = [
  "btleplug",
  "pretty_env_logger",
  "tokio",
+ "uuid",
 ]
 
 [[package]]
